@@ -3,7 +3,7 @@ posadajs
 
 Este repo esta creado para proponer pláticas para posada.js, el 20 de Diciembre en The Pool.
 
-Propon una plática [agregando un issue](https://github.com/javascriptmx/posadajs/issues/new)
+Propon una plática [agregando un issue](https://github.com/javascriptmx/posadajs/issues/new). Si te gustaría ver algun tema pero no quieres dar la plática, agrega un issue también.
 
 ### Pláticas
 
