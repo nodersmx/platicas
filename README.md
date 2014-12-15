@@ -1,10 +1,10 @@
 NodersMX - Platicas
 ========
 
-Este repo esta creado para proponer pláticas para NodersMX, el 20 de Diciembre en The Pool.
+Este repo esta creado para proponer pláticas para NodersMX, un evento en el que nos reunimos cada mes para compartir JavaScript entre el servidor, el navegador y los desarrolladores.
 
-Propon una plática [agregando un issue](https://github.com/nodersmx/posadajs/issues/new).
-Si te gustaría ver algun tema pero no quieres dar la plática, agrega un issue también.
+Propon una plática [agregando un issue](https://github.com/nodersmx/plaricas/issues/new).
+Si te gustaría ver algun tema del que quieras aprender pero no quieres dar la plática, agrega un issue también.
 
 ### Pláticas
 
